@@ -1,0 +1,67 @@
+Una estrategia útil para almacenar imágenes generadas/usadas por nuestra aplicación en la base de datos es:
+	-Almacenar los headers de los archivos
+El tipo de tablas InnoDB tiene una de sus mayores desventajas en:
+	-La velocidad-CORRECTO
+El comando para conocer la estructura de una tabla es:
+	-Describe tabla-CORRECTO
+La sentencia que evita que se dupliquen datos y/o se violen reglas de unicidad en MySQL es:
+	-a
+Los dos tipos más comunes de tablas (por diseño) son:
+	-a
+	-b
+El operador para traer sólo X número de tuplas tras hacer un query es:
+	-a
+	-b
+Si quiero almacenar una fecha/hora sin restricciones de año, debo usar:
+	-a-CORRECTO
+¿Cuál de los siguientes comandos se usa para listar las bases de datos existentes en la instalación de MySQL?
+	-a-CORRECTO
+El campo identificador de cualquier tabla, debe ser (con respecto a lo visto en el curso):
+	-a
+Si queremos que un campo no se pueda repetir en toda la tabla, usamos:
+	-a
+Según lo visto en el curso, ¿cuál de los siguientes formatos es correcto (por convención) para nombrar una tabla?
+	-a
+Asumiendo que existen las tablas books y authors con sus respectivas columnas de identificación, cuál de las siguientes sentencias es correcta a continuación de […] FROM books AS b JOIN authors AS a:
+	-a
+¿Cuál de los siguientes es una consulta o query bien formado? (asumamos que existe una tabla llamada books con al menos una columna llamada book_id )
+	-a-CORRECTO
+En MySQL, con una base de datos diseñada con respecto a la convenciones normales (vistas en el curso), las tablas se relacionan unas con otras a través de:
+	-a-CORRECTO
+Al diseñar todas las tablas de una base de datos relacional, una de las grandes ventajas mencionadas en el curso es:
+	-a-CORRECTO
+El caracter para denotar “todas las columnas” en una sentencia SELECT es:
+	-a
+El comando para explorar/traer el contenido de una tabla es:
+	-a
+	-b
+El formato correcto para agregar una tupla a alguna tabla, es:
+	-a
+¿Cuál de los siguientes tipos de datos no es un dato numérico?
+	-a
+¿Cuál de los siguientes comandos sirve para movernos a una base de datos específica? (supongamos que la base de datos se llama “library”):
+	-a
+¿Qué columna nunca debe faltar en una tabla de una base de datos relacional?
+	-a
+Asumiendo un query que está bien escrito y que las dos tablas en cuestión no son vacías, ¿cuál es el principal problema cuando se omite el campo de unión entre dos tablas tras cualquier JOIN?
+	-a-CORRECTO
+El comando para modificar el valor de una o más columnas en una tabla es:
+	-a
+En una tabla que almacene los datos personales de nuestros clientes, la restricción de UNIQUE es muy útil en una columna que almacene:
+	-a
+El tipo de tablas MYSIAM es mejor para:
+	-a
+El comando para modificar la estructura de una tabla es:
+	-a
+	-b
+La función TO_DAYS(fecha) regresa, el número de días desde:
+	-a
+¿Qué carácter denota el final de una sentencia de SQL en MySQL?
+	-a
+Asumiendo que:
+a) […] FROM books JOIN authors […] y
+b) […] FROM books, authors […]
+son sentencias equivalentes, a la segunda se le conoce comúnmente como:
+	-a
+El wildcard (caracter para denotar “lo que sea”) en una cadena de caracteres en MySQL es:
+	-a
