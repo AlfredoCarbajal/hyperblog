@@ -1,0 +1,59 @@
+¿Un diccionario sólo permite iterar a lo largo de sus llaves?
+    -a
+Para declarar una clase utilizamos el siguiente keyword:
+    -a
+Los decoradores se utilizan con la siguiente sintaxis:
+    -a
+¿Cuál de los siguientes ejemplos crea una lista?
+    -a
+Python se utiliza en el cómputo científico porque es el lenguaje más rápido que se haya creado hasta el momento:
+    -a
+Python únicamente funciona para diseñar aplicaciones de terminal de comandos:
+    -b-CORRECTO
+Para añadir un elemento a un set utilizamos el siguiente método:
+    -a
+Python permite leer archivos tanto en modo lectura, como en modo escritura:
+    -a-CORRECTO
+Cualquier función recursiva es aquella que se ejecuta a sí misma dentro de su cuerpo:
+    -a-CORRECTO
+¿Cuál es el keyword que utilizamos para declarar una función?
+    -a
+Python es un lenguaje multiparadigma (permite programar orientado a objetos, imperativa y en menor medida funcional):
+    -a-CORRECTO
+¿La siguiente expresión es válida?
+x = ‘hello, ’ x += ‘world!’
+    -b
+¿Cuál es la diferencia entre un argumento y una opción en aplicaciones de terminal?
+    -a-CORRECTO
+¿La diferencia entre tuplas y listas es que las primeras son inmutables?
+    -a-CORRECTO
+¿Es posible reasignar la siguiente constante: PI = 3.14159?
+    -a-CORRECTO
+Los objetos en Python únicamente pueden contener métodos de instancia:
+    -a-CORRECTO
+La recomendación de la comunidad es comenzar todos los proyectos nuevos utilizando la siguiente versión del lenguaje:
+    -b-CORRECTO
+¿La siguiente expresión es válida?
+
+x = ‘hello, ’ x /= ‘world!’
+    -b-CORRECTO
+El manejador de paquetes en Python se ejecuta con el comando:
+    -a-CORRECTO
+Python, al ser un lenguaje dinámico, no tiene tipos:
+    -a
+¿Cuál de las siguientes variables no tiene un nombre válido?
+    -c-CORRECTO
+¿Dado el siguiente código, cuál es el resultado?
+
+name = ‘james’
+	if not name.startswith(‘j’):
+		print(‘Hello’)
+	else:
+		print(‘world’)
+    -b-CORRECTO
+¿El primer argumento del método init es siempre self?
+    -a-CORRECTO
+¿Cuál es el resultado de la siguiente operación? 5 // 2
+    -a
+¿Cuál es la mayor diferencia entre un while loop y un for loop?
+    -a
