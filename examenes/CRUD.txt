@@ -1,28 +1,36 @@
 ¿Un diccionario sólo permite iterar a lo largo de sus llaves?
     -a
+    -b-CORRECTO
 Para declarar una clase utilizamos el siguiente keyword:
     -a
+    -b
 Los decoradores se utilizan con la siguiente sintaxis:
     -a
+    -b
 ¿Cuál de los siguientes ejemplos crea una lista?
     -a
+    -b
 Python se utiliza en el cómputo científico porque es el lenguaje más rápido que se haya creado hasta el momento:
     -a
+    -b
 Python únicamente funciona para diseñar aplicaciones de terminal de comandos:
     -b-CORRECTO
 Para añadir un elemento a un set utilizamos el siguiente método:
     -a
+    -b
 Python permite leer archivos tanto en modo lectura, como en modo escritura:
     -a-CORRECTO
 Cualquier función recursiva es aquella que se ejecuta a sí misma dentro de su cuerpo:
     -a-CORRECTO
 ¿Cuál es el keyword que utilizamos para declarar una función?
     -a
+    -b
 Python es un lenguaje multiparadigma (permite programar orientado a objetos, imperativa y en menor medida funcional):
     -a-CORRECTO
 ¿La siguiente expresión es válida?
 x = ‘hello, ’ x += ‘world!’
     -b
+    -a-CORRECTO
 ¿Cuál es la diferencia entre un argumento y una opción en aplicaciones de terminal?
     -a-CORRECTO
 ¿La diferencia entre tuplas y listas es que las primeras son inmutables?
@@ -41,6 +49,7 @@ El manejador de paquetes en Python se ejecuta con el comando:
     -a-CORRECTO
 Python, al ser un lenguaje dinámico, no tiene tipos:
     -a
+    -b
 ¿Cuál de las siguientes variables no tiene un nombre válido?
     -c-CORRECTO
 ¿Dado el siguiente código, cuál es el resultado?
@@ -55,5 +64,7 @@ name = ‘james’
     -a-CORRECTO
 ¿Cuál es el resultado de la siguiente operación? 5 // 2
     -a
+    -b
 ¿Cuál es la mayor diferencia entre un while loop y un for loop?
     -a
+    -b
