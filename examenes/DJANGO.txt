@@ -10,6 +10,7 @@ Si deseamos consultar la lista de usuarios que se han creado dentro de los últi
     -a
     -b
     -c
+    -d
 ¿Qué es un middleware?
     -a
     -b
@@ -20,6 +21,7 @@ Si deseamos consultar la lista de usuarios que se han creado dentro de los últi
 ¿Qué es el dashboard de administración de Django?
     -a
     -b
+    -c
 ¿Qué es un modelo proxy?
     -a-CORRECTO
 ¿Cómo se pintan los campos de un Form separados en párrafos?
@@ -48,6 +50,7 @@ Si deseamos consultar la lista de usuarios que se han creado dentro de los últi
     -a
     -b
     -c
+    -d
 ¿Qué concepto define mejor una aplicación en Django?
     -a
     -b
@@ -59,6 +62,7 @@ Si se tuviera una plataforma con donde el username principal de los usuarios es 
     -a
     -b
     -c
+    -d
 Si quisiéramos validar dos campos de un formulario que dependen entre sí, ¿qué método deberíamos usar para lograrlo?
     -a
     -b
@@ -79,6 +83,7 @@ Si quisiéramos validar dos campos de un formulario que dependen entre sí, ¿qu
     -a
     -b
     -c
+    -d
 ¿Qué es una vista?
     -a-CORRECTO
 ¿Qué hace la variable DEBUG dentro del archivo settings.py?
