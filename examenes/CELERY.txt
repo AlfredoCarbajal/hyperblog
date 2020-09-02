@@ -1,0 +1,60 @@
+¿Qué aporta Kombu a Celery y cuándo se revela su uso?
+    -a-CORRECTO
+¿En qué casos es conveniente usar RabbitMQ directamente?
+    -a
+¿Se podría desplegar una aplciación Celery en Azure, GCP, Digital Ocean o AWS?
+    -a
+¿Cómo podemos informar de un error encontrado o incluso pedir ayuda con Celery?
+    -a
+Cuando se hace una llamada a una tarea programada con Celery, ¿el programa que la hace espera a que llegue el resultado de la misma?
+    -a-CORRECTO
+¿En el contexto de Celery, qué brokers de mensajería son más populares?
+    -a
+¿En qué caso deberíamos usar enrutamiento o encaminado de tareas?
+    -a
+¿Qué broker de mensajería open source tiene soporte para todas las funcionalidades que permite Celery?
+    -a
+¿Cómo codifica Celery los mensajes?
+    -a-CORRECTO
+¿Qué pasa si nos referimos a una cola de tareas sin haberla definido antes?
+    -a
+Si tuvieras un presupuesto de 100 US$ mensuales, ¿cómo desplegarías una aplicación Celery en la nube?
+    -a
+¿Hay alguna diferencia fundamental entre brokers de tareas y sistemas de mensajería?
+    -a-CORRECTO
+¿Cuándo se usa enrutado automático en vez de manual?
+    -a-CORRECTO
+¿Qué información nos dan los monitores de tareas?
+    -a
+¿Dónde se puede ejecutar un bot de Slack?
+    -a
+¿Qué hay que tener en cuenta para desplegar Celery en un contenedor?
+    -a
+¿Por qué es conveniente Celery para trabajar con bots?
+    -a
+¿Se puede desplegar una aplicación Celery en Heroku de forma gratuita?
+    -a
+¿Hace falta que un bot tenga inteligencia artificial?
+    -a-CORRECTO
+¿Qué lenguajes de programación se pueden usar para trabajar con el API de Slack?
+    -a
+¿Cómo funciona pub/sub?
+    -a
+¿Cuándo se debe usar un broker de mensajería
+    -a
+¿Qué es Celery?
+    -a
+¿Qué tipo de sintaxis utiliza Celery para declarar las tareas?
+    -a
+¿En qué casos se debería conectar una aplicación Celery con otros lenguajes?
+    -a-CORRECTO
+¿Por qué se dice que los programas de bots son reactivos?
+    -a
+¿Se puede usar directamente RabbitMQ desde Python?
+    -a-CORRECTO
+¿Necesitas virtualenv para trabajar con Celery?
+    -a
+¿Es conveniente crear colas con diferente prioridad?
+    -a
+¿Cuáles son los elementos fundamentales de una arquitectura de software basada en colas de tareas?
+    -a
