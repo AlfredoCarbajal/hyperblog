@@ -3,9 +3,11 @@
 ¿En qué casos es conveniente usar RabbitMQ directamente?
     -a
     -b
+    -c
 ¿Se podría desplegar una aplciación Celery en Azure, GCP, Digital Ocean o AWS?
     -a
     -b
+    -c
 ¿Cómo podemos informar de un error encontrado o incluso pedir ayuda con Celery?
     -a
     -b-CORRECTO
@@ -14,12 +16,14 @@ Cuando se hace una llamada a una tarea programada con Celery, ¿el programa que 
 ¿En el contexto de Celery, qué brokers de mensajería son más populares?
     -a
     -b
+    -c
 ¿En qué caso deberíamos usar enrutamiento o encaminado de tareas?
     -a
     -b-CORRECTO
 ¿Qué broker de mensajería open source tiene soporte para todas las funcionalidades que permite Celery?
     -a
     -b
+    -c
 ¿Cómo codifica Celery los mensajes?
     -a-CORRECTO
 ¿Qué pasa si nos referimos a una cola de tareas sin haberla definido antes?
@@ -38,12 +42,14 @@ Si tuvieras un presupuesto de 100 US$ mensuales, ¿cómo desplegarías una aplic
 ¿Dónde se puede ejecutar un bot de Slack?
     -a
     -b
+    -c-CORRECTO
 ¿Qué hay que tener en cuenta para desplegar Celery en un contenedor?
     -a
     -b-CORRECTO
 ¿Por qué es conveniente Celery para trabajar con bots?
     -a
     -b
+    -c-CORRECTO
 ¿Se puede desplegar una aplicación Celery en Heroku de forma gratuita?
     -a
     -b-CORRECTO
@@ -58,17 +64,21 @@ Si tuvieras un presupuesto de 100 US$ mensuales, ¿cómo desplegarías una aplic
 ¿Cuándo se debe usar un broker de mensajería
     -a
     -b
+    -c-CORRECTO
 ¿Qué es Celery?
     -a
     -b
+    -c
 ¿Qué tipo de sintaxis utiliza Celery para declarar las tareas?
     -a
     -b
+    -c
 ¿En qué casos se debería conectar una aplicación Celery con otros lenguajes?
     -a-CORRECTO
 ¿Por qué se dice que los programas de bots son reactivos?
     -a
     -b
+    -c
 ¿Se puede usar directamente RabbitMQ desde Python?
     -a-CORRECTO
 ¿Necesitas virtualenv para trabajar con Celery?
@@ -77,6 +87,8 @@ Si tuvieras un presupuesto de 100 US$ mensuales, ¿cómo desplegarías una aplic
 ¿Es conveniente crear colas con diferente prioridad?
     -a
     -b
+    -c-CORRECTO
 ¿Cuáles son los elementos fundamentales de una arquitectura de software basada en colas de tareas?
     -a
     -b
+    -c
