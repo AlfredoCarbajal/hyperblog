@@ -4,10 +4,12 @@
     -a
     -b
     -c
+    -d
 ¿Se podría desplegar una aplciación Celery en Azure, GCP, Digital Ocean o AWS?
     -a
     -b
     -c
+    -d
 ¿Cómo podemos informar de un error encontrado o incluso pedir ayuda con Celery?
     -a
     -b-CORRECTO
@@ -17,6 +19,7 @@ Cuando se hace una llamada a una tarea programada con Celery, ¿el programa que 
     -a
     -b
     -c
+    -d
 ¿En qué caso deberíamos usar enrutamiento o encaminado de tareas?
     -a
     -b-CORRECTO
@@ -24,6 +27,7 @@ Cuando se hace una llamada a una tarea programada con Celery, ¿el programa que 
     -a
     -b
     -c
+    -d
 ¿Cómo codifica Celery los mensajes?
     -a-CORRECTO
 ¿Qué pasa si nos referimos a una cola de tareas sin haberla definido antes?
@@ -69,16 +73,19 @@ Si tuvieras un presupuesto de 100 US$ mensuales, ¿cómo desplegarías una aplic
     -a
     -b
     -c
+    -d
 ¿Qué tipo de sintaxis utiliza Celery para declarar las tareas?
     -a
     -b
     -c
+    -d
 ¿En qué casos se debería conectar una aplicación Celery con otros lenguajes?
     -a-CORRECTO
 ¿Por qué se dice que los programas de bots son reactivos?
     -a
     -b
     -c
+    -d
 ¿Se puede usar directamente RabbitMQ desde Python?
     -a-CORRECTO
 ¿Necesitas virtualenv para trabajar con Celery?
@@ -92,3 +99,4 @@ Si tuvieras un presupuesto de 100 US$ mensuales, ¿cómo desplegarías una aplic
     -a
     -b
     -c
+    -d
