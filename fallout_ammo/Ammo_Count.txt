@@ -1,0 +1,17 @@
+.308 = 387
+.38 = 356
+.44 = 86
+.45 = 1278
+10mm = 525
+2mm = 202
+5mm = 1145
+Fuel = 4899
+Fusion Cell = 608
+Fusion Core = 11
+Plasma Cartidge = 452 
+Shotgun Shell = 965
+
+Ultracite .308 = 6593
+Ultracite .50 = 7385
+Ultracite 2mm = 1743
+Ultracite 5mm = 28653
